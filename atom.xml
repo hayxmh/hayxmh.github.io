@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>恶臭科技服务器</title>
+  <title>hayxmh</title>
   
-  <subtitle>欢迎来到恶臭科技</subtitle>
+  <subtitle>欢迎来到XMH的博客</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>恶臭科技</name>
+    <name>hayxmh</name>
     
   </author>
   
@@ -18,9 +18,9 @@
   
   <entry>
     <title>欢迎来到恶臭科技！</title>
-    <link href="http://example.com/2023/02/01/%E6%80%BB%E7%BB%93/"/>
-    <id>http://example.com/2023/02/01/%E6%80%BB%E7%BB%93/</id>
-    <published>2023-02-01T11:24:34.313Z</published>
+    <link href="http://example.com/2023/02/23/%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2023/02/23/%E6%80%BB%E7%BB%93/</id>
+    <published>2023-02-23T11:12:57.483Z</published>
     <updated>2023-02-01T11:43:43.511Z</updated>
     
     <content type="html"><![CDATA[<h1 id="群号：310029147"><a href="#群号：310029147" class="headerlink" title="群号：310029147"></a>群号：310029147</h1>]]></content>
@@ -34,6 +34,27 @@
     
     
     <category term="文章" scheme="http://example.com/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/02/23/hello-world/"/>
+    <id>http://example.com/2023/02/23/hello-world/</id>
+    <published>2023-02-23T10:54:13.940Z</published>
+    <updated>2023-02-23T11:31:26.907Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to [徐萌浩studio]零者空清 为沃尔者</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to [徐萌浩studio]零者空清 为沃尔者&lt;/p&gt;
+</summary>
+      
+    
+    
     
     
   </entry>

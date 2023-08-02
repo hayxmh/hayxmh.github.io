@@ -6,21 +6,41 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-23T11:40:36.509Z</updated>
+  <updated>1970-01-01T00:00:02.323Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>土豆博客🥔</name>
+    <name>XMH</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>markdown的语法</title>
+    <link href="http://example.com/2023/08/02/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2023/08/02/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/</id>
+    <published>2023-08-02T06:43:23.748Z</published>
+    <updated>1970-01-01T00:00:02.323Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这一期来写markdown的总结语法"><a href="#这一期来写markdown的总结语法" class="headerlink" title="这一期来写markdown的总结语法"></a>这一期来写markdown的总结语法</h1><h2 id="markdown是一种轻量级表达语音"><a href="#markdown是一种轻量级表达语音" class="headerlink" title="markdown是一种轻量级表达语音"></a>markdown是一种轻量级表达语音</h2><h1 id="如-为大标题"><a href="#如-为大标题" class="headerlink" title="如#为大标题"></a>如#为大标题</h1><h2 id="为副标题"><a href="#为副标题" class="headerlink" title="##为副标题"></a>##为副标题</h2><h3 id="这是三级文字"><a href="#这是三级文字" class="headerlink" title="这是三级文字"></a>这是三级文字</h3><h2 id="到-6为最小文字"><a href="#到-6为最小文字" class="headerlink" title="到#6为最小文字"></a>到#6为最小文字</h2><h1 id="好的你现在已经会简单的文字了-我们来下一个"><a href="#好的你现在已经会简单的文字了-我们来下一个" class="headerlink" title="好的你现在已经会简单的文字了 我们来下一个"></a>好的你现在已经会简单的文字了 我们来下一个</h1><h2 id="gt-为引用-效果如下"><a href="#gt-为引用-效果如下" class="headerlink" title="&gt;为引用 效果如下"></a>&gt;为引用 效果如下</h2><h1 id="title【必需】頁面標題date【必需】頁面創建日期"><a href="#title【必需】頁面標題date【必需】頁面創建日期" class="headerlink" title="title【必需】頁面標題date【必需】頁面創建日期"></a>title【必需】頁面標題date【必需】頁面創建日期</h1><h1 id="type【必需】標籤、分類和友情鏈接三個頁面需要配置"><a href="#type【必需】標籤、分類和友情鏈接三個頁面需要配置" class="headerlink" title="type【必需】標籤、分類和友情鏈接三個頁面需要配置"></a>type【必需】標籤、分類和友情鏈接三個頁面需要配置</h1><h1 id="updated【可選】頁面更新日期"><a href="#updated【可選】頁面更新日期" class="headerlink" title="updated【可選】頁面更新日期"></a>updated【可選】頁面更新日期</h1><h1 id="description【可選】頁面描述"><a href="#description【可選】頁面描述" class="headerlink" title="description【可選】頁面描述"></a>description【可選】頁面描述</h1><h1 id="keywords【可選】頁面關鍵字"><a href="#keywords【可選】頁面關鍵字" class="headerlink" title="keywords【可選】頁面關鍵字"></a>keywords【可選】頁面關鍵字</h1><h1 id="comments【可選】顯示頁面評論模塊-默認-true"><a href="#comments【可選】顯示頁面評論模塊-默認-true" class="headerlink" title="comments【可選】顯示頁面評論模塊 (默認 true)"></a>comments【可選】顯示頁面評論模塊 (默認 true)</h1><h1 id="top-img【可選】頁面頂部圖片"><a href="#top-img【可選】頁面頂部圖片" class="headerlink" title="top_img【可選】頁面頂部圖片"></a>top_img【可選】頁面頂部圖片</h1><h1 id="以上可选内转自hexo官方文档内"><a href="#以上可选内转自hexo官方文档内" class="headerlink" title="#以上可选内转自hexo官方文档内"></a>#以上可选内转自hexo官方文档内</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;这一期来写markdown的总结语法&quot;&gt;&lt;a href=&quot;#这一期来写markdown的总结语法&quot; class=&quot;headerlink&quot; title=&quot;这一期来写markdown的总结语法&quot;&gt;&lt;/a&gt;这一期来写markdown的总结语法&lt;/h1&gt;&lt;h2 id=&quot;m</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/23/hello-world/"/>
-    <id>http://example.com/2023/02/23/hello-world/</id>
-    <published>2023-02-23T10:54:13.940Z</published>
+    <link href="http://example.com/2023/08/02/hello-world/"/>
+    <id>http://example.com/2023/08/02/hello-world/</id>
+    <published>2023-08-02T06:43:23.745Z</published>
     <updated>2023-02-23T11:40:36.509Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Welcome-to-徐萌浩studio-零者空清-为沃尔者"><a href="#Welcome-to-徐萌浩studio-零者空清-为沃尔者" class="headerlink" title="Welcome to [徐萌浩studio]零者空清 为沃尔者"></a>Welcome to [徐萌浩studio]零者空清 为沃尔者</h1><h2 id="纪录代码过程"><a href="#纪录代码过程" class="headerlink" title="纪录代码过程"></a>纪录代码过程</h2>]]></content>
